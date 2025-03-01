@@ -1,0 +1,37 @@
+Vendor,Product,Version,CVE_ID,CPE
+Cisco,Cisco BroadWorks,22.0,CVE-2025-20165,cpe:/a:cisco:broadworks
+Cisco,Cisco Common Services Platform Collector Software,2.11,CVE-2025-20168,cpe:/a:cisco:common_services_platform_collector
+Cisco,Cisco Common Services Platform Collector Software,30.1.1-0,CVE-2025-20166,cpe:/a:cisco:common_services_platform_collector
+Cisco,Cisco Crosswork Network Change Automation,3.0.0,CVE-2025-20123,cpe:/a:cisco:crosswork_network_change_automation
+Cisco,Cisco Meeting Management,CMM3.4.0,CVE-2025-20156,cpe:/a:cisco:meeting_management
+Mattermost,Mattermost,0,CVE-2025-20036,cpe:/a:mattermost:mattermost
+Mattermost,Mattermost,0,CVE-2025-20072,cpe:/a:mattermost:mattermost
+Mattermost,Mattermost,0,CVE-2025-20630,cpe:/a:mattermost:mattermost
+Mattermost,Mattermost,10.2.0,CVE-2025-20033,cpe:/a:mattermost:mattermost
+Mattermost,Mattermost,10.2.0,CVE-2025-20086,cpe:/a:mattermost:mattermost
+Mattermost,Mattermost,10.2.0,CVE-2025-20088,cpe:/a:mattermost:mattermost
+Mattermost,Mattermost,10.2.0,CVE-2025-20621,cpe:/a:mattermost:mattermost
+Y'S corporation,STEALTHONE D220,firmware v6.03.02 and earlier,CVE-2025-20016,cpe:/a:ys_corporation:stealthone_d220
+Y'S corporation,STEALTHONE D220,firmware v6.03.02 and earlier,CVE-2025-20055,cpe:/a:ys_corporation:stealthone_d220
+Y'S corporation,STEALTHONE D220,firmware v6.03.02 and earlier,CVE-2025-20620,cpe:/a:ys_corporation:stealthone_d220
+apple,macos,Unknown,CVE-2023-12347,cpe:/o:apple:macos
+cisco,broadworks,Unknown,CVE-2025-20165,cpe:/a:cisco:broadworks
+cisco,common_services_platform_collector,Unknown,CVE-2025-20166,cpe:/a:cisco:common_services_platform_collector
+cisco,common_services_platform_collector,Unknown,CVE-2025-20168,cpe:/a:cisco:common_services_platform_collector
+cisco,crosswork_network_change_automation,Unknown,CVE-2025-20123,cpe:/a:cisco:crosswork_network_change_automation
+cisco,meeting_management,Unknown,CVE-2025-20156,cpe:/a:cisco:meeting_management
+mattermost,mattermost,Unknown,CVE-2025-20630,cpe:/a:mattermost:mattermost
+mattermost,mattermost,Unknown,CVE-2025-20072,cpe:/a:mattermost:mattermost
+mattermost,mattermost,Unknown,CVE-2025-20088,cpe:/a:mattermost:mattermost
+mattermost,mattermost,Unknown,CVE-2025-20036,cpe:/a:mattermost:mattermost
+mattermost,mattermost,Unknown,CVE-2025-20033,cpe:/a:mattermost:mattermost
+mattermost,mattermost,Unknown,CVE-2025-20086,cpe:/a:mattermost:mattermost
+mattermost,mattermost,Unknown,CVE-2025-20621,cpe:/a:mattermost:mattermost
+microsoft,windows_10,Unknown,CVE-2023-12345,cpe:/o:microsoft:windows_10
+microsoft,windows_10,Unknown,CVE-2023-12346,cpe:/o:microsoft:windows_10
+mySCADA,myPRO Manager,0,CVE-2025-20014,cpe:/a:myscada:mypro_manager
+myscada,mypro_manager,Unknown,CVE-2025-20014,cpe:/a:myscada:mypro_manager
+redhat,rhel,Unknown,CVE-2023-12348,cpe:/o:redhat:rhel
+ys_corporation,stealthone_d220,Unknown,CVE-2025-20055,cpe:/a:ys_corporation:stealthone_d220
+ys_corporation,stealthone_d220,Unknown,CVE-2025-20620,cpe:/a:ys_corporation:stealthone_d220
+ys_corporation,stealthone_d220,Unknown,CVE-2025-20016,cpe:/a:ys_corporation:stealthone_d220

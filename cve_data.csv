@@ -1,0 +1,21 @@
+CVE_ID,Description
+CVE-2023-12345,Vulnerability in Windows subsystem.
+CVE-2023-12346,Heap overflow in Windows kernel.
+CVE-2023-12347,Privilege escalation in macOS.
+CVE-2023-12348,Buffer overflow in RHEL service.
+CVE-2025-20165,Vulnerability in Cisco BroadWorks.
+CVE-2025-20014,Vulnerability in myPRO Manager by mySCADA.
+CVE-2025-20166,Vulnerability in Cisco Common Services Platform Collector Software.
+CVE-2025-20168,Vulnerability in Cisco Common Services Platform Collector Software.
+CVE-2025-20123,Vulnerability in Cisco Crosswork Network Change Automation.
+CVE-2025-20156,Vulnerability in Cisco Meeting Management.
+CVE-2025-20630,Vulnerability in Mattermost.
+CVE-2025-20072,Vulnerability in Mattermost.
+CVE-2025-20088,Vulnerability in Mattermost.
+CVE-2025-20036,Vulnerability in Mattermost.
+CVE-2025-20033,Vulnerability in Mattermost.
+CVE-2025-20086,Vulnerability in Mattermost.
+CVE-2025-20621,Vulnerability in Mattermost.
+CVE-2025-20055,Vulnerability in STEALTHONE D220 by Y'S corporation.
+CVE-2025-20620,Vulnerability in STEALTHONE D220 by Y'S corporation.
+CVE-2025-20016,Vulnerability in STEALTHONE D220 by Y'S corporation.

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patch Intelligence - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header injected via JavaScript -->
+    <div id="header"></div>
+
+    <main class="home-main">
+        <div class="hero">
+            <h1 class="hero-title">Patch Intelligence Platform</h1>
+            <div class="hero-subtitle">Next-Generation Vulnerability Management Solution</div>
+            <a href="overview.html" class="overview-btn">View Overview</a>
+        </div>
+
+        <div class="problem-statement">
+            <div class="statement-card">
+                <h2 class="statement-title">Problem Statement</h2>
+                <div class="statement-content">
+                    <ul class="issue-list">
+                        <li class="issue-item">
+                            <div class="issue-icon">⚠️</div>
+                            <div class="issue-text">
+                                <h3>Information Disconnect</h3>
+                                <p>Lack of correlation between vulnerabilities and available patches</p>
+                            </div>
+                        </li>
+                        <li class="issue-item">
+                            <div class="issue-icon">📉</div>
+                            <div class="issue-text">
+                                <h3>Operational Risks</h3>
+                                <p>Missing critical patch metadata like failure rates and known issues</p>
+                            </div>
+                        </li>
+                        <li class="issue-item">
+                            <div class="issue-icon">🛡️</div>
+                            <div class="issue-text">
+                                <h3>Security Gaps</h3>
+                                <p>Inadequate mitigation strategies when patches can't be applied</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer injected via JavaScript -->
+    <div id="footer"></div>
+
+    <script src="js/script.js"></script>
+
+    <style>
+        /* Overview Button */
+.overview-btn {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 1rem 2.0rem;
+    background: var(--primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.overview-btn:hover {
+    background: var(--secondary);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+    </style>
+</body>
+</html>
+
+
+
