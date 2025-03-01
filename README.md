@@ -74,7 +74,6 @@ https://github.com/user-attachments/assets/037ad1f6-25a0-4eb9-af64-a78c663fb834
 ![pg2](https://github.com/user-attachments/assets/9ccf070e-5c74-4401-b3e5-ac8b9e4a3fbf)
 ![pg3](https://github.com/user-attachments/assets/a97bcf6f-84bd-4755-88c9-2e03c724f925)
 ![Screenshot 2025-02-12 095642](https://github.com/user-attachments/assets/3f73f3fd-09e9-48ec-92b7-737a5d60fa2c)
-![Screenshot 2025-02-12 100148](https://github.com/user-attachments/assets/bb6d8d28-a7dd-40e9-b66f-906906b0399c)
 ![Screenshot 2025-02-12 095806](https://github.com/user-attachments/assets/433c65a0-1e6b-4b05-8c4f-d3978e5e63da)
 
 
@@ -84,15 +83,4 @@ https://github.com/user-attachments/assets/037ad1f6-25a0-4eb9-af64-a78c663fb834
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: BeautifulSoup, Pandas
 - **Visualization**: D3.js for graph representation
-
-## Contributors - 
-- [Samuel Kiruba](https://github.com/lokeshwar) +91 7200754446 .
-- [Jonnalagadda Sri Harsha](https://github.com/HarshaHharros) +91 8122182899.
-- [Prithvi v](https://github.com/lokeshwar)
-- [Lokeshwar Yemulwar](https://github.com/lokeshwar)
-- [Dev S](https://github.com/lokeshwar)
-- [Trinisha](https://github.com/lokeshwar)
-- [Dhanush](https://github.com/lokeshwar)
-- [Jothiarunachalam](https://github.com/lokeshwar)
-For more details, please refer to the documentation or contact the contributors.
-"# Patch_Intelligence-MVP-main" 
+ 
